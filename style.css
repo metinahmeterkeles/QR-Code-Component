@@ -60,5 +60,6 @@ body {
 
 .text {
   font-size: 15px;
-  color: var(--color-light-gray);
+  color: var(--color-grayish-blue);
+  letter-spacing: 0.19px;
 }
